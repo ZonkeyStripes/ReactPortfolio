@@ -1,7 +1,10 @@
-.App {
+.Appfoot {
   text-align: center;
 }
 
+.container {
+  color: antiquewhite;
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;

@@ -3,8 +3,7 @@ import logo from './logo.svg';
 import './App.css';
 import Navbar from "./components/Navbar";
 import Header from "./components/Header";
-import Body from "./components/Body";
-import Slides from "./components/Slides";
+import Body from "./pages/Body";
 import Footer from "./components/Footer";
 
 function App() {
@@ -13,7 +12,6 @@ function App() {
     <Header />
     <Navbar />
     <Body />
-    <Slides />
     <Footer />
     </div>
   );

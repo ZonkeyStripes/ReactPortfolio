@@ -5,7 +5,7 @@ import '../App.css';
 function Footer() {
 
     return (
-        <div className="App">
+        <div className="Appfoot">
         <header className="App-header">
           <p>
           <img src={logo} className="App-logo" alt="logo" />

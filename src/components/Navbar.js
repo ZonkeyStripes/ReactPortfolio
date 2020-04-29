@@ -7,13 +7,13 @@ function Navbar() {
             <div class="collapse navbar-collapse" id="navbarNav">
                 <ul class="navbar-nav">
                     <li class="nav-item active">
-                        <a class="nav-link" href="#">Home</a>
+                        <a class="nav-link" href="#">Github</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#">Contact</a>
+                        <a class="nav-link" href="#">LinkedIn</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#">Other</a>
+                        <a class="nav-link" href="#">Funny Wikipedia Page</a>
                     </li>
                 </ul>
             </div>

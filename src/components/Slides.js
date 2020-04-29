@@ -5,6 +5,7 @@ import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
 import covidShot from "../images/covidshot.PNG"
 import recipeShot from "../images/recipefindShot.png";
+import passShot from "../images/passgenShot.png";
 
 // const Wrapper = styled.div `
 //     width: 100%;
@@ -33,12 +34,12 @@ export default class SimpleSlider extends Component {
               <img src={covidShot} className="slidePics" alt="Covid Disaster Screenshot"/>
             </div>
             <div>
-              <h3>2</h3>
-              <p>EVEN MORE FILLER TEXT FOR THE PAGE 2</p>
-              <img src={recipeShot} className="slidePics" alt="Recipe Finder Screenshot" />
+              <h3>Recipe Finder</h3>
+              <img src={recipeShot} className="slidePicFinder" alt="Recipe Finder Screenshot" />
             </div>
             <div>
-              <h3>3</h3>
+              <h3>Password Generator</h3>
+              <img src={passShot} className="slidePicPass" alt="Password Generator" />
             </div>
             <div>
               <h3>4</h3>

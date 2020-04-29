@@ -15,7 +15,7 @@
 
 .Appfoot {
   text-align: center;
-  margin-top: 90vh;
+  margin-top: 10vh;
 }
 
 .App-footer {
@@ -49,10 +49,14 @@
 #navbarNav {
   justify-content: center;
   text-align: center;
-  padding-left: 20px;
+  padding-left: 30px;
+  margin: 20px;
 }
 
 .nav-link {
+  border: solid orange;
+  margin-left: 100px;
+  margin-right: 100px;
   color: white;
   padding-left: 20px;
 }
@@ -82,9 +86,26 @@
   height: 450px;
 }
 
+.slidePicPass {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  /* width: 900px; */
+  height: 450px; 
+}
+.slidePicFinder {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 900px;
+  height: 450px; 
+}
 .slider {
-
   height: 100vh;
+}
+
+.bodyC {
+  margin: 30px;
 }
 
 /* The dots in the page */

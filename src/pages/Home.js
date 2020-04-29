@@ -1,18 +1,16 @@
 import React from "react";
 import SimpleSlider from "../components/Slides";
-import "../App.css";
 
-function Body() {
+function Home() {
     
     return (
-        <div className="container">
+        <div>
+        <div className="container bodyC">
             This is my text for my profile to come
             <SimpleSlider />
         </div>
-
+        </div>
     )
-
 };
 
-
-export default Body;
+export default Home;

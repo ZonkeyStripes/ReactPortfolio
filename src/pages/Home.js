@@ -5,8 +5,8 @@ function Home() {
     
     return (
         <div>
+            My name is Harley and I am currently a burger representative at a local Tucson, Az restaraunt <a href="https://www.divinebovineburgers.com/">Divine Bovine</a>. I have taken a full stack MERN course at the Univerity of Arizona and plan on furthering my knowledge in progamming and development by tackling side projects and continuing my journey of education through college. You can checkout some of my projects at my github page in the link provided!
         <div className="container bodyC">
-            This is my text for my profile to come
             <SimpleSlider />
         </div>
         </div>

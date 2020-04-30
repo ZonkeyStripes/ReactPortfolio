@@ -43,7 +43,6 @@
 
 .container {
   text-align: center;
-  border: brown solid;
 }
 
 #navbarNav {
@@ -51,6 +50,7 @@
   text-align: center;
   padding-left: 30px;
   margin: 20px;
+  margin-top: 45px;
 }
 
 .nav-link {
@@ -62,11 +62,32 @@
 }
 
 .propic {
-  text-align: center;
+  position: absolute;
+  margin-bottom: 50px;
+  align-items: center;
+  left: 47%;
+  margin-left: -50px;
+  margin-top: -50px;
   height: 225px;
   width: 225px;
   border-radius: 50%;
-  border: solid blue;
+  border: solid #3333CC;
+  z-index: 2;
+}
+
+.front {
+  border-radius: 10px;
+  border: solid #3333CC;
+  background-color: #3333CC;
+  opacity: .5;
+  height: 300px;
+}
+
+.back {
+  border: solid orange;
+  margin: 5%;
+  padding: 30px;
+  padding-top: 75px;
 }
 
 @keyframes App-logo-spin {

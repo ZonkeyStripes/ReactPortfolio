@@ -13,7 +13,7 @@ function Navbar() {
                         <a class="nav-link" href="https://www.linkedin.com/in/harley-cripe-53435b195/">LinkedIn</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="https://en.uncyclopedia.co/">Funny Wikipedia Page</a>
+                        <a class="nav-link" id="lastnav" href="https://en.uncyclopedia.co/">Uncyclopedia</a>
                     </li>
                 </ul>
             </div>

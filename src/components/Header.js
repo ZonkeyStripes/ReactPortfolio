@@ -8,8 +8,8 @@ function Header() {
         <div className="back">
             <img src={profPic} className="propic" alt="Profile Picture" />
         <div className="container front">
-        </div>
             <Navbar />
+        </div>
         </div>
     )
 }

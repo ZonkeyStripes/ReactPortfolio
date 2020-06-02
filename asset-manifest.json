@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/ReactPortfolio/static/css/main.158f2402.chunk.css",
-    "main.js": "/ReactPortfolio/static/js/main.9d3da4fb.chunk.js",
-    "main.js.map": "/ReactPortfolio/static/js/main.9d3da4fb.chunk.js.map",
+    "main.js": "/ReactPortfolio/static/js/main.d36b8a03.chunk.js",
+    "main.js.map": "/ReactPortfolio/static/js/main.d36b8a03.chunk.js.map",
     "runtime-main.js": "/ReactPortfolio/static/js/runtime-main.17f5a5c9.js",
     "runtime-main.js.map": "/ReactPortfolio/static/js/runtime-main.17f5a5c9.js.map",
     "static/css/2.f2c7665a.chunk.css": "/ReactPortfolio/static/css/2.f2c7665a.chunk.css",
-    "static/js/2.3dbe034e.chunk.js": "/ReactPortfolio/static/js/2.3dbe034e.chunk.js",
-    "static/js/2.3dbe034e.chunk.js.map": "/ReactPortfolio/static/js/2.3dbe034e.chunk.js.map",
+    "static/js/2.b96a99e1.chunk.js": "/ReactPortfolio/static/js/2.b96a99e1.chunk.js",
+    "static/js/2.b96a99e1.chunk.js.map": "/ReactPortfolio/static/js/2.b96a99e1.chunk.js.map",
     "index.html": "/ReactPortfolio/index.html",
-    "precache-manifest.dc0e70ceab652fd6e6ef22c0c3eade44.js": "/ReactPortfolio/precache-manifest.dc0e70ceab652fd6e6ef22c0c3eade44.js",
+    "precache-manifest.1d0d5200ce0b1157b4e97c3118422696.js": "/ReactPortfolio/precache-manifest.1d0d5200ce0b1157b4e97c3118422696.js",
     "service-worker.js": "/ReactPortfolio/service-worker.js",
     "static/css/2.f2c7665a.chunk.css.map": "/ReactPortfolio/static/css/2.f2c7665a.chunk.css.map",
     "static/css/main.158f2402.chunk.css.map": "/ReactPortfolio/static/css/main.158f2402.chunk.css.map",
-    "static/js/2.3dbe034e.chunk.js.LICENSE.txt": "/ReactPortfolio/static/js/2.3dbe034e.chunk.js.LICENSE.txt",
+    "static/js/2.b96a99e1.chunk.js.LICENSE.txt": "/ReactPortfolio/static/js/2.b96a99e1.chunk.js.LICENSE.txt",
     "static/media/index.css": "/ReactPortfolio/static/media/background.51dc20e4.jpg",
     "static/media/covidshot.PNG": "/ReactPortfolio/static/media/covidshot.4f6c3578.PNG",
     "static/media/logo.svg": "/ReactPortfolio/static/media/logo.5d5d9eef.svg",
@@ -25,8 +25,8 @@
   "entrypoints": [
     "static/js/runtime-main.17f5a5c9.js",
     "static/css/2.f2c7665a.chunk.css",
-    "static/js/2.3dbe034e.chunk.js",
+    "static/js/2.b96a99e1.chunk.js",
     "static/css/main.158f2402.chunk.css",
-    "static/js/main.9d3da4fb.chunk.js"
+    "static/js/main.d36b8a03.chunk.js"
   ]
 }

@@ -6,7 +6,7 @@ function Header() {
 
     return (
         <div className="back">
-            <img src={profPic} className="propic" alt="Profile Picture" />
+            <img src={profPic} className="propic" alt="Profile" />
         <div className="container front">
             <Navbar />
         </div>
